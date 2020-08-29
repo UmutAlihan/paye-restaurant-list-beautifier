@@ -4,4 +4,4 @@ This script scraps paye card website for a better view of listed restaurants
 
 
 - TODO:
--- scrap and create csv for each place, not only Kadıkoy
+scrap and create csv for each place, not only Kadıkoy
